@@ -2,7 +2,7 @@
 
 <img align='right' src="https://i.imgur.com/vOQRcTn.gif" width="200" alt="Hello !">
 
-<p>I'm a Swiss French Developer. I’m currently learning everything and looking to collaborate with other developers 👯. I'm finishing my studies by doing a internship at SCOTT Sports as a Web Developer (Back-end).</p>
+<p>I'm a Swiss French Developer. I love learning everything and I'm also always looking to collaborate with other developers 👯. I'm currently in engineering school and working at SCOTT Sports as a Web Developer (Back-end).</p>
 
 <br/><br/><br/><br/><br/>
 
