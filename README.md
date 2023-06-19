@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexis - aka Rhombicdodecahedron 👋
 
-<img align='right' src="[https://i.imgur.com/vOQRcTn.gif](https://imgur.com/FV32Hgw)" width="200" alt="Hello !">
+<img align='right' src="https://imgur.com/FV32Hgw" width="200" alt="Hello !">
 <p>I'm a Swiss French Developer. I love learning everything and I'm also always looking to collaborate with other developers 👯. I'm currently in engineering school and working at SCOTT Sports as a Web Developer (Back-end).</p>
 
 <br/><br/><br/><br/><br/>
