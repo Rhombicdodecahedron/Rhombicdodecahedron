@@ -40,7 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhombicdodecahedron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![wakatime](https://wakatime.com/badge/user/a216b24f-9168-496b-a4a4-2c5f5c5ecea4.svg)]
+![wakatime](https://wakatime.com/badge/user/a216b24f-9168-496b-a4a4-2c5f5c5ecea4.svg)
 
 
 
