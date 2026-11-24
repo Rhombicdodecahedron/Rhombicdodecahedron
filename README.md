@@ -12,12 +12,31 @@ I like code that's boring in the good way: the domain in the middle, frameworks 
 
 <br clear="right">
 
-### Things I've been building
+### My plugins for <a href="https://github.com/l0ng-ai/openidea">OpenIDEA</a>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Rhombicdodecahedron/openidea-doppler"><img src="https://raw.githubusercontent.com/Rhombicdodecahedron/openidea-doppler/main/assets/banner.png" alt="Doppler theme for OpenIDEA" width="100%"></a>
+<h4><img src="https://raw.githubusercontent.com/Rhombicdodecahedron/openidea-doppler/main/icon.svg" width="22" align="absmiddle" alt="">&nbsp; <a href="https://github.com/Rhombicdodecahedron/openidea-doppler">Doppler</a></h4>
+Two dark themes built on black, shifted red and blue: <b>Crimson Cobalt</b> and <b>Neon Siren</b>. They cover the whole IDE, from tool windows and diffs to syntax and the terminal palette.
+<br><br>
+<a href="https://github.com/Rhombicdodecahedron/openidea-doppler#install">Install</a> · <a href="https://github.com/Rhombicdodecahedron/openidea-doppler">Source</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Rhombicdodecahedron/openidea-code-snap"><img src="https://raw.githubusercontent.com/Rhombicdodecahedron/openidea-code-snap/main/assets/banner.png" alt="Code Snap for OpenIDEA" width="100%"></a>
+<h4><img src="https://raw.githubusercontent.com/Rhombicdodecahedron/openidea-code-snap/main/icon.svg" width="22" align="absmiddle" alt="">&nbsp; <a href="https://github.com/Rhombicdodecahedron/openidea-code-snap">Code Snap</a></h4>
+Select some code, press <kbd>⌘⌥⇧P</kbd>, get an image ready to paste into a chat, a post or a README. Window frame, gradient backgrounds, Doppler palettes.
+<br><br>
+<a href="https://github.com/Rhombicdodecahedron/openidea-code-snap#install">Install</a> · <a href="https://github.com/Rhombicdodecahedron/openidea-code-snap">Source</a>
+</td>
+</tr>
+</table>
+
+### Other things I've been building
 
 | | |
 |---|---|
-| [**openidea-code-snap**](https://github.com/Rhombicdodecahedron/openidea-code-snap) | Pretty screenshots of your code, straight from the editor. A plugin for [OpenIDEA](https://github.com/l0ng-ai/openidea). |
-| [**openidea-doppler**](https://github.com/Rhombicdodecahedron/openidea-doppler) | Two dark themes for OpenIDEA, one red-shifted, one blue-shifted. |
 | [**capri-rs**](https://github.com/Rhombicdodecahedron/capri-rs) | A little netrunner who lives on your desktop, sits on your windows and falls when you close them. Rust. |
 | [**nautiljon-scraper**](https://github.com/Rhombicdodecahedron/nautiljon-scraper) | Unofficial scraper for Nautiljon, the French anime and manga database. |
 | [**hyde-dot**](https://github.com/Rhombicdodecahedron/hyde-dot) | My Arch + Hyprland dotfiles. |
