@@ -1,91 +1,50 @@
-### Hi there, I'm Alexis - aka Rhombicdodecahedron 👋
-
-<img align='right' src="https://media.tenor.com/Zyo9QTij5JQAAAAC/gwen-stacy.gif" width="200" alt="Hello !">
-
-<p>
-I'm a Swiss French Software Engineer 🇨🇭 passionate about backend engineering, AI systems, and data-driven applications.  
-Currently working at <b>Symphony Procurement Suite</b> and pursuing a <b>Master of Science in Data Science</b> at HES-SO (Switzerland).  
-
-I love building scalable systems, experimenting with AI workflows, and collaborating with curious developers 👯.
+<p align="center">
+  <img src="./assets/banner.svg" alt="Alexis, a.k.a. rhombicdodecahedron" width="100%">
 </p>
 
----
+<img align="right" src="https://media.tenor.com/Zyo9QTij5JQAAAAC/gwen-stacy.gif" width="180" alt="">
 
-### 👨‍💻 Current Focus
+Hey, I'm Alexis. Software engineer from the French-speaking part of Switzerland.
 
-- 🏢 Software Engineer @ Symphony Procurement Suite (since 2025)
-- 🎓 MSc in Data Science – HES-SO (2025–2027)
-- 🤖 AI systems (LLMs, RAG, LangChain ecosystem)
-- 🧠 Backend architectures & distributed systems
-- ⚡ Performance, clean architecture & DevOps practices
+By day I write Java at **Symphony Procurement Suite**. By evening I'm working through an **MSc in Data Science** at HES-SO. Whatever's left goes into side projects, mostly in Rust, and a small k3s homelab I keep breaking and fixing.
 
----
+I like code that's boring in the good way: the domain in the middle, frameworks at the edges, nothing that falls apart when the next library comes along.
 
-### 🛠 Languages and Tools
+<br clear="right">
 
-#### 💻 Backend & Core
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=JAVA)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
-![NodeJS](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
+### Things I've been building
 
-#### 🌐 Frontend
-![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=Javascript)
-![React](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=red)
-![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)
+| | |
+|---|---|
+| [**openidea-code-snap**](https://github.com/Rhombicdodecahedron/openidea-code-snap) | Pretty screenshots of your code, straight from the editor. A plugin for [OpenIDEA](https://github.com/l0ng-ai/openidea). |
+| [**openidea-doppler**](https://github.com/Rhombicdodecahedron/openidea-doppler) | Two dark themes for OpenIDEA, one red-shifted, one blue-shifted. |
+| [**capri-rs**](https://github.com/Rhombicdodecahedron/capri-rs) | A little netrunner who lives on your desktop, sits on your windows and falls when you close them. Rust. |
+| [**nautiljon-scraper**](https://github.com/Rhombicdodecahedron/nautiljon-scraper) | Unofficial scraper for Nautiljon, the French anime and manga database. |
+| [**hyde-dot**](https://github.com/Rhombicdodecahedron/hyde-dot) | My Arch + Hyprland dotfiles. |
 
-#### 🤖 AI & Data
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
-![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=flat)
-![Qdrant](https://img.shields.io/badge/-Qdrant-000000?style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=FastAPI)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat&logo=Oracle)
+### Stack
 
-#### ⚙ Dev & Tools
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=GIT)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
-![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=PowerShell)
-![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=Jira)
-![Confluence](https://img.shields.io/badge/-Confluence-000000?style=flat&logo=Confluence)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,fastapi,rust,nodejs,ts,angular,react,nextjs,php&theme=dark" alt="Java, Python, FastAPI, Rust, Node.js, TypeScript, Angular, React, Next.js, PHP"><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,kubernetes,linux,arch,apple,git&theme=dark" alt="MongoDB, MySQL, Docker, Kubernetes, Linux, Arch, macOS, Git">
+</p>
 
----
+On the AI side: LangChain, LangGraph, Qdrant, mostly for RAG pipelines.
 
-### 🧱 Engineering Principles
-
-Influenced by Clean Architecture (Uncle Bob).
-
-- The domain comes first.
-- Frameworks are plugins.
-- Databases are implementation details.
-- Use cases define the system.
-- Dependencies always point inward.
-
-I prefer building systems that can outlive their frameworks.
-
----
-
-### 💻 OS I'm using for development
-
-![Mac](https://img.shields.io/badge/-Mac-000000?style=flat&logo=Apple)
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-000000?style=flat&logo=Arch-Linux&logoColor=1793D1)
-
----
-
-### 🎵 What I'm listening to
+### On repeat
 
 [![Spotify](https://novatorem-git-master-rhombicdodecahedron.vercel.app/api/spotify)](https://open.spotify.com/user/9evkbt3tb0jf9ia37i6yn3w91)
 
----
+<details>
+<summary>Stats, if you're into that</summary>
+<br>
 
-### ⚡ Some Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhombicdodecahedron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhombicdodecahedron&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![wakatime](https://wakatime.com/badge/user/a216b24f-9168-496b-a4a4-2c5f5c5ecea4.svg)
 
+</details>
+
 ---
 
-⭐ Always open to interesting collaborations around backend engineering, AI systems, and data-driven products.
+Want to talk backend, data, or plugins for OpenIDEA? Open an issue on any repo, I'll see it.
