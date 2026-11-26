@@ -12,6 +12,27 @@ I like code that's boring in the good way: the domain in the middle, frameworks 
 
 <br clear="right">
 
+### Lately
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Rhombicdodecahedron/hive"><img src="https://raw.githubusercontent.com/Rhombicdodecahedron/hive/main/assets/banner.png" alt="Hive: plug Android phones in, they post to TikTok" width="100%"></a>
+<h4><img src="https://raw.githubusercontent.com/Rhombicdodecahedron/hive/main/icon.svg" width="22" align="absmiddle" alt="">&nbsp; <a href="https://github.com/Rhombicdodecahedron/hive">Hive</a></h4>
+Plug Android phones in and they post your videos and slideshows to TikTok, each on the phone that holds the account. Several phones at once, a queue for planned posts, a dashboard, and MCP tools so Claude can post too. Rust, no Appium.
+<br><br>
+<a href="https://github.com/Rhombicdodecahedron/hive#install">Install</a> · <a href="https://github.com/Rhombicdodecahedron/hive">Source</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Rhombicdodecahedron/ardoise"><img src="https://raw.githubusercontent.com/Rhombicdodecahedron/ardoise/main/assets/banner.png" alt="ardoise: what each Claude Code plugin costs you in context" width="100%"></a>
+<h4><img src="https://raw.githubusercontent.com/Rhombicdodecahedron/ardoise/main/icon.svg" width="22" align="absmiddle" alt="">&nbsp; <a href="https://github.com/Rhombicdodecahedron/ardoise">ardoise</a></h4>
+What each Claude Code plugin costs you in context, and how often you actually use it, read from your real sessions. Offline and read-only, one screen of numbers, and a <code>/ardoise</code> command inside Claude Code.
+<br><br>
+<a href="https://github.com/Rhombicdodecahedron/ardoise#install">Install</a> · <a href="https://github.com/Rhombicdodecahedron/ardoise">Source</a>
+</td>
+</tr>
+</table>
+
 ### My plugins for <a href="https://github.com/l0ng-ai/openidea">OpenIDEA</a>
 
 <table>
